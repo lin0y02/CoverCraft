@@ -1,0 +1,7 @@
+{
+  "name": "covercraft",
+  "version": "1.0.0",
+  "description": "AI cover letter generator",
+  "private": true,
+  "type": "module"
+}
